@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Web developer, focused on MERN Stack, based in Berlin.
+Web developer, focused on React, Redux and GraphQL, based in Berlin.
 
 - 🔭 I’m currently working on React, Express, Next.js
 - 🌱 I’m currently learning Material UI, MongoDB, GraphQL.
