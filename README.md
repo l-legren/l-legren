@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Web developer, focused on React, Redux and GraphQL, based in Berlin.
+Web developer, focused on React, based in Berlin.
 
 - 🔭 I’m currently working on React, Express, Next.js
 - 🌱 I’m currently learning Firebase, React Native, GraphQL.
