@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Web developer, focused on React, based in Berlin.
+Web developer, with a focus on React, based in Berlin.
 
 - 🔭 I’m currently working on React and Next.js
 - 🌱 I’m currently learning Azure DevOps.
