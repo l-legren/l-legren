@@ -5,5 +5,5 @@ Full-stack engineer specialising in TypeScript, React and GraphQL, based in Berl
 - 🤖 Integrating Claude Code into CI/CD pipelines — using AI as a core part of the development workflow, not just a side tool
 - 🛠️ Stack: TypeScript, React, Next.js, GraphQL, PostgreSQL, Node, Playwright, Vitest, Turborepo
 - 🌱 Deepening my knowledge in AI-integrated systems and the future of software engineering where AI is a native capability across all domains
-- 📫 Reach me at: carlos.leret@proton.me
+- 📫 Reach me at: carlosleret@gmail.com
 - ⚡ Fun fact: Used to be a construction manager on €100M+ projects — systems thinking runs deep
