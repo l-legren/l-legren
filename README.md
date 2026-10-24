@@ -8,7 +8,7 @@
 
 ## About Me
 
-Fullstack engineer with 5+ years shipping TypeScript and React products end to end. Before software I was a civil engineer — I made the switch through Spiced Academy in 2020 and never looked back. I like owning a problem from an ambiguous starting point through to production: architecture, backend, frontend, and everything that keeps it running afterward. I use AI coding tools like Claude Code daily as a structured part of how I build, not just autocomplete. Currently building **moniq**, a personal-finance app, on the side.
+Fullstack engineer with 5+ years shipping TypeScript and React products end to end. I like owning a problem from an ambiguous starting point through to production: architecture, backend, frontend, and everything that keeps it running afterward. I use AI coding tools like Claude Code daily as a structured part of how I build. Currently building **mai**, a personal-finance app with AI capabilities, on the side.
 
 ## Technical Skills
 
@@ -19,13 +19,13 @@ Fullstack engineer with 5+ years shipping TypeScript and React products end to e
 | **Backend & Data** | Node.js, REST APIs, GraphQL, PostgreSQL, Supabase |
 | **Cloud & DevOps** | Google Cloud Platform, Authorization & Access Control, CI/CD, Turborepo, Vite |
 | **Testing** | Playwright, Vitest, Cypress, Jest |
-| **Observability** | Sentry, Grafana, Betterstack |
-| **AI Tooling** | Claude Code, GitHub Copilot |
+| **Observability** | Sentry, Grafana |
+| **AI Tooling** | Claude Code, GitHub Copilot, LangChain, LangGraph, LangSmith |
 
 ## Key Projects
 
-**🧭 moniq** *(Ongoing)*
-React Native/TypeScript personal-finance app built on Supabase, integrating an AI API to turn raw transaction data into behaviour-driven spending insights.
+**🧭 mai** *(Ongoing)*
+React Native/TypeScript and Nextjs personal-finance app built on Supabase, integrating an AI API to turn raw transaction data into behaviour-driven spending insights.
 
 **🏥 Aignostics — Full-Stack Engineer**
 Enterprise pathology image-analysis platform for pharma and clinical customers. Owned features end to end across a React/Next.js frontend and a GraphQL/PostgreSQL backend, contributed to modularizing the core application inside a Turborepo monorepo, and supported migrating the codebase from GitLab to GitHub.
